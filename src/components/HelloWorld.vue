@@ -1,5 +1,5 @@
 <template>
-  <p class="text-3xl font-bold underline">
+  <p class="text-3xl font-bold">
     The edit works!
   </p>
 </template>
