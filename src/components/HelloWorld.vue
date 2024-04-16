@@ -12,7 +12,7 @@
 <script setup lang="ts">
 import { ref } from 'vue';
 
-const profilePicture = ref('./assets/images/profile.jpeg');
+const profilePicture = ref('../assets/images/profile.jpeg');
 const name = ref('John Doe');
 const hobbies = ref(['Coding', 'Reading', 'Traveling']);
 </script>
